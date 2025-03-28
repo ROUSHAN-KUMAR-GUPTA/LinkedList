@@ -6,7 +6,7 @@
                    // return new int [] {i,j};
                      int a[]={i,j}; 
                      return a;
-
+ 
                 }
             }
         }
